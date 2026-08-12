@@ -3,6 +3,16 @@
 Implementação **compatível com o cliente oficial**:  
 <https://github.com/paulo-coelho/2025-1-kvstore-client>
 
+## Tecnologias utilizadas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=plastic)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=plastic)
+![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=plastic)
+![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-4285F4?style=plastic&logo=protobuf&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
+
 ## Requisitos
 - Java 17+
 - Maven 3.8+
